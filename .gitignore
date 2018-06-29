@@ -1,0 +1,5 @@
+# Ignore sass cache
+/.sass-cache
+
+# Ignore ignore file
+/ignore
